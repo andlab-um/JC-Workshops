@@ -35,7 +35,7 @@
 
 * Schedule 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 1： Learning is shaped by abrupt changes in neural engagement.<br/>
+&emsp;&emsp;&emsp;&emsp;Week 1：Learning is shaped by abrupt changes in neural engagement.<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41593-021-00822-8<br/>		
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Siqi Cao, Changlin Bai,	Huidi Li,	Kun Chen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计4月18日
