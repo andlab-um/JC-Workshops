@@ -12,22 +12,22 @@
 * Members 小组成员：
 
 &emsp;&emsp;&emsp;&emsp;Shensheng Wang - PostDoc; UM&SUSTech<br/>
-&emsp;&emsp;&emsp;&emsp;Yanyan Qi - Zhengzhou University<br/>
+&emsp;&emsp;&emsp;&emsp;Yanyan Qi - Zhengzhou University
 &emsp;&emsp;&emsp;&emsp;Kun Chen - PhD student; UM <br/>
 &emsp;&emsp;&emsp;&emsp;Haoming Zhang - PhD student<br/> 
-&emsp;&emsp;&emsp;&emsp;Zhaoning Li - PhD student<br/>
-&emsp;&emsp;&emsp;&emsp;Ziqi Zhang - Master student<br/> 
-&emsp;&emsp;&emsp;&emsp;Siqi Cao- Master student<br/>  
-&emsp;&emsp;&emsp;&emsp;Pengcheng Zhang- Master student<br/> 
+&emsp;&emsp;&emsp;&emsp;Zhaoning Li - PhD student
+&emsp;&emsp;&emsp;&emsp;Ziqi Zhang - Master student 
+&emsp;&emsp;&emsp;&emsp;Siqi Cao - Master student 
+&emsp;&emsp;&emsp;&emsp;Pengcheng Zhang - Master student
 &emsp;&emsp;&emsp;&emsp;Luoyao Pang - Master student<br/>
-&emsp;&emsp;&emsp;&emsp;Yanghua Ye- Master student<br/> 
+&emsp;&emsp;&emsp;&emsp;Yanghua Ye - Master student<br/> 
 &emsp;&emsp;&emsp;&emsp;Jiamin Huang - Master student<br/> 
 &emsp;&emsp;&emsp;&emsp;Qingyuan Wu - Master student <br/> 
 &emsp;&emsp;&emsp;&emsp;Changlin Bai - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Huidi Li - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Qi Huang - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Ruien Wang - UG student<br/>
-&emsp;&emsp;&emsp;&emsp;Yuanchen Wang- UG student<br/>
+&emsp;&emsp;&emsp;&emsp;Yuanchen Wang - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Xinyi Xu - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Xianqing Liu - UG student<br/>
 
