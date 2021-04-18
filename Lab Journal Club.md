@@ -46,9 +46,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人: Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
 
-&emsp;&emsp;&emsp;&emsp;Week  2:  Brain-based mediation of non-conscious reduction of phobic avoidance in young women during functional MRI: a randomised controlled experiment.<br/>
+&emsp;&emsp;&emsp;&emsp;Week  2:  Brain-based mediation of non-conscious reduction of phobic avoidance in young women during functional MRI:<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;a randomised controlled experiment.<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/S2215-0366(20)30285-6<br/>		
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang, Kun Chen, Ruien Wang, Luoyao Pang, Jiamin Huang, Pengcheng Zhang, Yanghua Ye, Changlin Bai<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang, Kun Chen, Ruien Wang, Luoyao Pang, Jiamin Huang, Pengcheng Zhang, Yanghua Ye,<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Changlin Bai<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 10 / 1月10日
 
 &emsp;&emsp;&emsp;&emsp;Week  3:  a. Neural Computations of Threat.<br/>
@@ -131,9 +133,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Shensheng Wang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 14 / 3月14日
 
-&emsp;&emsp;&emsp;&emsp;Week 10:  Identification and disruption of a neural mechanism for accumulating prospective metacognitive information prior to decision-making.<br/>
+&emsp;&emsp;&emsp;&emsp;Week 10:  Identification and disruption of a neural mechanism for accumulating prospective metacognitive information prior<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;to decision-making.<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.02.024<br/>		
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Jiamin, Huang, Luoyao Pang, Qi Huang, Ruien Wang, Pengcheng Zhang, Changlin Bai, Haoming Zhang, Kun Chen, Xinyi Xu, Qingyuan Wu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Jiamin, Huang, Luoyao Pang, Qi Huang, Ruien Wang, Pengcheng Zhang, Changlin Bai, <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Haoming Zhang, Kun Chen, Xinyi Xu, Qingyuan Wu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 21 / 3月21日
 
 &emsp;&emsp;&emsp;&emsp;Week 11:  a. Expectations of reward and efficacy guide cognitive control allocation.<br/>
