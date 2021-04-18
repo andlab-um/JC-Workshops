@@ -24,10 +24,10 @@
 &emsp;&emsp;&emsp;&emsp;Qingyuan Wu - Master student  
 &emsp;&emsp;&emsp;&emsp;Changlin Bai - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Huidi Li - UG student<br/>
+&emsp;&emsp;&emsp;&emsp;Qi Huang - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Ruien Wang - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Yuanchen Wang- UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Xianqing Liu - UG student<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
 
 * Meeting time 时间：
 
