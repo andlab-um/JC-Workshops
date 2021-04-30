@@ -171,7 +171,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Kun Chen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Apr 25 / 4月25日
 
-&emsp;&emsp;&emsp;&emsp;Week 16：Decision-Making in the Human-Machine Interface<br/>
+&emsp;&emsp;&emsp;&emsp;Week 16: Decision-Making in the Human-Machine Interface<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3389/fpsyg.2021.624111<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Shensheng Wang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计5月2日
