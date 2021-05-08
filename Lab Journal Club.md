@@ -174,9 +174,9 @@
 &emsp;&emsp;&emsp;&emsp;Week 16: Decision-Making in the Human-Machine Interface<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3389/fpsyg.2021.624111<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Shensheng Wang<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计5月2日
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 2 / 5月2日
 
-&emsp;&emsp;&emsp;&emsp;Week 17：Project progress- "how being empathized shapes fear learning?"<br/>
+&emsp;&emsp;&emsp;&emsp;Week 17:Project progress- "how being empathized shapes fear learning?"<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanyan Qi<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 9 / 5月9日
 
