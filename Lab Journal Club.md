@@ -180,28 +180,27 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanyan Qi<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 9 / 5月9日
 
-&emsp;&emsp;&emsp;&emsp;Week 18:Bot or not: How passenger tells apart AI and human drivers in the Turing test of automated driving?<br/>
+&emsp;&emsp;&emsp;&emsp;Week 18:a. Bot or not: How passenger tells apart AI and human drivers in the Turing test of automated driving?<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(url)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zhaoning Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 16 / 5月16日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(title)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. (title)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ziqi Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 16 / 5月16日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Project Progress<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;c. Project Progress<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Siqi Cao<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 16 / 5月16日
 
 
-&emsp;&emsp;&emsp;&emsp;Week 19：<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(title)<br/>
+&emsp;&emsp;&emsp;&emsp;Week 19:a. (title)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(url)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qingyuan Wu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 23 / 5月23日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Two sides of the same coin: Beneﬁcial and detrimental consequences of range adaptation in human reinforcement<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;learning<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Two sides of the same coin: Beneﬁcial and detrimental consequences of range adaptation in human<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;reinforcement learning<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1126/sciadv.abe0340<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 23 / 5月23日
