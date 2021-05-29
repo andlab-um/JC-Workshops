@@ -206,13 +206,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 23 / 5月23日
 
-&emsp;&emsp;&emsp;&emsp;Week 20:Oxytocin modulates social value representations in the amygdala<br/>
+&emsp;&emsp;&emsp;&emsp;Week 20:a. Oxytocin modulates social value representations in the amygdala<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41593-019-0351<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanyan Qi<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 30 / 5月30日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Patterns of bribery behavior in unsupervised third-party decision-making tasks and its neural<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mechanisms<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Siqi Cao<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计5月30日
 
