@@ -216,9 +216,16 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Ziqi Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: May 30 / 5月30日
 
-&emsp;&emsp;&emsp;&emsp;Week 21:Start-up report: The predictive role of individual decision preferences and life values on career decisions<br/>
+&emsp;&emsp;&emsp;&emsp;Week 21:a. Start-up report: The predictive role of individual decision preferences and life values on career decisions<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Pengcheng Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 6 / 6月6日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Space, Time, and Fear: Survival Computations along Defensive Circuits<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.12.016<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;c. A Decision Architecture for Safety Computations<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.01.013<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Haoming Zhang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: Jun 6 / 6月6日
 
 &emsp;&emsp;&emsp;&emsp;Week #：<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
