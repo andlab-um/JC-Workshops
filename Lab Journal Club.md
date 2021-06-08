@@ -23,7 +23,6 @@
 &emsp;&emsp;&emsp;&emsp;Yanghua Ye - Master student<br/> 
 &emsp;&emsp;&emsp;&emsp;Jiamin Huang - Master student<br/> 
 &emsp;&emsp;&emsp;&emsp;Qingyuan Wu - Master student <br/> 
-&emsp;&emsp;&emsp;&emsp;Changlin Bai - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Huidi Li - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Qi Huang - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Ruien Wang - UG student<br/>
