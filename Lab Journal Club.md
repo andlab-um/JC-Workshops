@@ -206,7 +206,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 23 / 5月23日
 
-&emsp;&emsp;&emsp;&emsp;Week 20:a. Oxytocin modulates social value representations in the amygdala<br/>
+&emsp;&emsp;&emsp;Week 20: a. Oxytocin modulates social value representations in the amygdala<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41593-019-0351<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanyan Qi<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 30 / 5月30日
