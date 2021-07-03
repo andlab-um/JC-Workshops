@@ -37,6 +37,10 @@
 
 * Schedule in 2021 阅读分享安排：
 
+&emsp;&emsp;&emsp;&emsp;Week 25:Special Talk: Literature sharing on computational modeling<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 4 / 7月4日
+
 &emsp;&emsp;&emsp;&emsp;Week 24:a.A prefrontal network integrates preferences for advance information about uncertain rewards and punishments<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.05.013<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanghua Ye <br/>
@@ -46,24 +50,24 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Shensheng Wang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 27 / 6月27日
 
-&emsp;&emsp;&emsp;&emsp;Week 23:a. The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious Marmosets<br/>
+&emsp;&emsp;&emsp;&emsp;Week 23:a.The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious Marmosets<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1093/cercor/bhab080<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. A cell type–specific cortico-subcortical brain circuit for investigatory and novelty-seeking<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b.A cell type–specific cortico-subcortical brain circuit for investigatory and novelty-seeking<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;behavior<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1126/science.abe9681<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 20 / 6月20日
 
-&emsp;&emsp;&emsp;&emsp;Week 22:a. Integration of individual and social information for decision-making in groups of different sizes<br/>
+&emsp;&emsp;&emsp;&emsp;Week 22:Integration of individual and social information for decision-making in groups of different sizes<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1371/journal.pbio.2001958<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Luoyao Pang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 13 / 6月13日
 
-&emsp;&emsp;&emsp;&emsp;Week 21:a. Start-up report: The predictive role of individual decision preferences and life values on career decisions<br/>
+&emsp;&emsp;&emsp;&emsp;Week 21:a.Start-up report: The predictive role of individual decision preferences and life values on career decisions<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Pengcheng Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 6 / 6月6日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. Space, Time, and Fear: Survival Computations along Defensive Circuits<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b.Space, Time, and Fear: Survival Computations along Defensive Circuits<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.12.016<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;c. A Decision Architecture for Safety Computations<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.01.013<br/>
