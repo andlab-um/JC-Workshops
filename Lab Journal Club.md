@@ -32,14 +32,28 @@
 
 * Meeting time 时间：
 
+&emsp;&emsp;&emsp;&emsp;Journal Club (start from 1/3/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
+
+&emsp;&emsp;&emsp;&emsp;PTB Workshop (start from 6/11/2021)<br/>
+&emsp;&emsp;&emsp;&emsp;每周五晚19：00（北京时间），腾讯会议<br/>
+&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
+
 
 * Schedule in 2021 阅读分享安排：
 
 &emsp;&emsp;&emsp;&emsp;Week 25:Special Talk: Literature sharing on computational modeling<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 4 / 7月4日
+
+&emsp;&emsp;&emsp;&emsp;PTB Workshop 4: Introduction to Psychtoolbox in Matlab<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 2 / 7月2日
+
+&emsp;&emsp;&emsp;&emsp;PTB Workshop 2: Matlab Logics<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ziqi Zhang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 18 / 6月18日
 
 &emsp;&emsp;&emsp;&emsp;Week 24:a.A prefrontal network integrates preferences for advance information about uncertain rewards and punishments<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.05.013<br/>
@@ -50,6 +64,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Shensheng Wang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 27 / 6月27日
 
+&emsp;&emsp;&emsp;&emsp;PTB Workshop 3: Introduction to Psychtoolbox in Matlab<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 25 / 6月25日
+
 &emsp;&emsp;&emsp;&emsp;Week 23:a.The Brain Circuits and Dynamics of Curiosity-Driven Behavior in Naturally Curious Marmosets<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1093/cercor/bhab080<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b.A cell type–specific cortico-subcortical brain circuit for investigatory and novelty-seeking<br/>
@@ -58,10 +76,18 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 20 / 6月20日
 
+&emsp;&emsp;&emsp;&emsp;PTB Workshop 2: Matlab Logics<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ziqi Zhang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 18 / 6月18日
+
 &emsp;&emsp;&emsp;&emsp;Week 22:Integration of individual and social information for decision-making in groups of different sizes<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1371/journal.pbio.2001958<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Luoyao Pang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jun 13 / 6月13日
+
+&emsp;&emsp;&emsp;&emsp;PTB Workshop 1: Matlab Basics Tutorial<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ziqi Zhang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: June 11 / 6月11日
 
 &emsp;&emsp;&emsp;&emsp;Week 21:a.Start-up report: The predictive role of individual decision preferences and life values on career decisions<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Pengcheng Zhang<br/>
