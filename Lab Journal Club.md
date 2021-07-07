@@ -32,7 +32,7 @@
 
 * Meeting time 时间：
 
-&emsp;&emsp;&emsp;&emsp;Journal Club (start from 1/3/2021)<br/>
+&emsp;&emsp;&emsp;* Journal Club (start from 1/3/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
 
