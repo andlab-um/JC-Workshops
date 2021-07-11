@@ -44,6 +44,11 @@
 
 * Schedule in 2021 阅读分享安排：
 
+&emsp;&emsp;&emsp;&emsp;Week 26:Neural proﬁles of observing acceptance and rejection decisions in human mate choice copying<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuroimage.2021.117929<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Jiamin Huang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 11 / 7月11日
+
 &emsp;&emsp;&emsp;&emsp;Week 25:Special Talk: Literature sharing on computational modeling<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 4 / 7月4日
@@ -274,10 +279,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人: Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
 
-&emsp;&emsp;&emsp;&emsp;Week ：<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Jiamin Huang<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计7月11日
+
 
 &emsp;&emsp;&emsp;&emsp;Week #：<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
