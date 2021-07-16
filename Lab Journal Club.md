@@ -44,13 +44,13 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 28:a.Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing<br/>
+&emsp;&emsp;&emsp;&emsp;Week 27:a.Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Self-Relevant Information<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;http://dx.doi.org/10.1016/j.neuron.2016.10.052<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Ruien Wang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 18 / 7月18日
 
-&emsp;&emsp;&emsp;&emsp;Week 27:b.Natural emotion vocabularies as windows on distress and well-being<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b.Natural emotion vocabularies as windows on distress and well-being<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-020-18349-0<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Siying Li <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 18 / 7月18日
