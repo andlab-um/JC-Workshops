@@ -44,6 +44,11 @@
 
 * Schedule in 2021 阅读分享安排：
 
+&emsp;&emsp;&emsp;&emsp;Week 28:Healthful choices depend on the latency and rate of information accumulation<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01154-0<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xinyi Xu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
+
 &emsp;&emsp;&emsp;&emsp;Week 27:a.Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Self-Relevant Information<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;http://dx.doi.org/10.1016/j.neuron.2016.10.052<br/>
@@ -292,12 +297,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://arxiv.org/pdf/1611.08024.pdf<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人: Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
-
-
-&emsp;&emsp;&emsp;&emsp;Week #:<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xinyi Xu<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
 
 &emsp;&emsp;&emsp;&emsp;Week #：<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
