@@ -50,10 +50,18 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xianqing Liu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 1 / 8月1日
 
+&emsp;&emsp;&emsp;&emsp;fMRI Workshop 2: Introduction to fMRIPrep<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 30 / 7月30日
+
 &emsp;&emsp;&emsp;&emsp;Week 28:Healthful choices depend on the latency and rate of information accumulation<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01154-0<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
+
+&emsp;&emsp;&emsp;&emsp;fMRI Workshop 1: fMRI Data Visualization<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Guochun Yang <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 23 / 7月23日
 
 &emsp;&emsp;&emsp;&emsp;Week 27:a.Computations Underlying Social Hierarchy Learning: Distinct Neural Mechanisms for Updating and Representing<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Self-Relevant Information<br/>
