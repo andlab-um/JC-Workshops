@@ -45,7 +45,7 @@
 * Schedule in 2021 阅读分享安排：
 
 
-&emsp;&emsp;&emsp;&emsp;Week #:Map Making: Constructing, Combining, and Inferring on Abstract Cognitive Maps<br/>
+&emsp;&emsp;&emsp;&emsp;Week 29:Map Making: Constructing, Combining, and Inferring on Abstract Cognitive Maps<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2020.06.030<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xianqing Liu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 1 / 8月1日
