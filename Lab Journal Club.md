@@ -59,6 +59,24 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 1: Obese Individuals Show Disrupted Dynamic Functional Connectivity<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;between Basal Ganglia and Salience Networks <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://pubmed.ncbi.nlm.nih.gov/34240115/ <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Yanghua Ye<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 2: A 7-Tesla MRI Study of the Periaqueductal Grey: Resting State and Task/<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Activation Under Threat<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://pubmed.ncbi.nlm.nih.gov/34244809/<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Ruien Wang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 3: Linking Patterns of Infant Eye Movements to a Neural Network Model of the<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ventral Stream Using Representational Similarity Analysis<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://onlinelibrary.wiley.com/doi/epdf/10.1111/desc.13155 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
+
 &emsp;&emsp;&emsp;&emsp;fMRI Workshop 1: fMRI Data Visualization<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Guochun Yang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 23 / 7月23日
@@ -317,7 +335,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Huidi Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计8月8日
 
-&emsp;&emsp;&emsp;&emsp;Week #：<br/>
+&emsp;&emsp;&emsp;&emsp;Week #：literature snapshot<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人： <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计8月15日
