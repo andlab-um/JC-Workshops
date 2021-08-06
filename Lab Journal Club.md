@@ -45,15 +45,15 @@
 * Schedule in 2021 阅读分享安排：
 
 
-&emsp;&emsp;&emsp;&emsp;Week #：<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
+&emsp;&emsp;&emsp;&emsp;Week 30：Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41593-020-00733-0<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Huidi Li<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计8月8日
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 8 / 8月8日
 
-&emsp;&emsp;&emsp;&emsp;Week #：literature snapshot<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人： <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：预计8月15日
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 1: Medial prefrontal cortical thinning mediates shifts in other-regarding preferences during adolescence<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41598-017-08692-6 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qingyuan Wu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 8 / 8月8日
 
 &emsp;&emsp;&emsp;&emsp;fMRI Workshop 3: MVPA<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Guochun Yang <br/>
@@ -75,8 +75,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 1 / 8月1日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 3: Qualitative similarities and differences in visual object representations between brains and deep networks<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ventral Stream Using Representational Similarity Analysis<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Literature Snapshot 3: Qualitative similarities and differences in visual object representations between brains and deep<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;networks<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-021-22078-3<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Qi Huang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 1 / 8月1日
@@ -109,6 +109,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 25 / 7月25日
 
 &emsp;&emsp;&emsp;&emsp;fMRI Workshop 1: fMRI Data Visualization<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.bilibili.com/video/BV17y4y1j7ha<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Guochun Yang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: July 23 / 7月23日
 
