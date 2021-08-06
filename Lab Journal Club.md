@@ -37,7 +37,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
 
-&emsp;&emsp;&emsp;* PTB Workshop (start from 6/11/2021)<br/>
+&emsp;&emsp;&emsp;* fMRI Workshop (start from 6/11/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;每周五晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
