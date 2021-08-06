@@ -45,7 +45,7 @@
 * Schedule in 2021 阅读分享安排：
 
 
-&emsp;&emsp;&emsp;&emsp;Week 30：Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification<br/>
+&emsp;&emsp;&emsp;&emsp;Week 30:Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41593-020-00733-0<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Huidi Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 8 / 8月8日
