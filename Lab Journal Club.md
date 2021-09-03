@@ -48,6 +48,15 @@
 
 * Schedule in 2021 阅读分享安排：
 
+&emsp;&emsp;&emsp;&emsp;EEG Workshop 1: EGI Data Preprocessing<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间: Sep 3 / 9月3日
+
+&emsp;&emsp;&emsp;&emsp;Week 33:Thinking ahead: spontaneous prediction in context as a keystone of language in humans and machines<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.biorxiv.org/content/10.1101/2020.12.02.403477v3<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Aug 29 / 8月29日
+
 &emsp;&emsp;&emsp;&emsp;Week 32:A neural mechanism of social categorization<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.jneurosci.org/content/jneuro/early/2017/05/08/JNEUROSCI.3334-16.2017.full.pdf<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Shensheng Wang<br/>
