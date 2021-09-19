@@ -48,7 +48,7 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 36: Response-based outcome predictions and confidence regulate feedback processing and learning<br/>
+&emsp;&emsp;&emsp;&emsp;Week 36:Response-based outcome predictions and confidence regulate feedback processing and learning<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.7554/eLife.62825<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Siqi Cao<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Sep 19 / 9月19日
