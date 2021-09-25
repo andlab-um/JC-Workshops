@@ -37,16 +37,25 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
 
-&emsp;&emsp;&emsp;* PTB Workshop (from 6/11/2021 to 7/2/2021)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;每周五晚19：00（北京时间），腾讯会议<br/>
+&emsp;&emsp;&emsp;* Lab Workshop (start from 6/11/2021)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;周五晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
-
-&emsp;&emsp;&emsp;* fMRI Workshop (start from 7/23/2021)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;每周五晚19：00（北京时间），腾讯会议<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
-
 
 * Schedule in 2021 阅读分享安排：
+
+&emsp;&emsp;&emsp;&emsp;Week 37:Linguistic effect on speech perception observed at the brainstem<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1073/pnas.1800186115<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Siying Li<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Sep 26 / 9月26日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1:On the interpretation of weight vectors of linear models in multivariate neuroimaging<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;http://dx.doi.org/10.1016/j.neuroimage.2013.10.067<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Sep 26 / 9月26日
+
+&emsp;&emsp;&emsp;&emsp;Lab Workshop: Psychophysiological data processing in Python<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenters 报告人：Ruien Wang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Sep 24 / 9月24日
 
 &emsp;&emsp;&emsp;&emsp;Week 36:Response-based outcome predictions and confidence regulate feedback processing and learning<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.7554/eLife.62825<br/>
