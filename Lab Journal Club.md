@@ -43,7 +43,7 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 38:Literature Review：<br/>
+&emsp;&emsp;&emsp;&emsp;Week 38:Literature review：Neural mechanisms associated with Maslow's basic needs<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Pengcheng Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 03 / 10月3日
 
@@ -55,6 +55,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2:Left temporal lobe language network connectivity in temporal lobe epilepsy<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1093/brain/awy164<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Siying Li<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 03 / 10月3日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 3:Causal manipulation of self-other mergence in the dorsomedial prefrontal cortex<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.05.027<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luoyao Pang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 03 / 10月3日
 
 &emsp;&emsp;&emsp;&emsp;Week 37:Linguistic effect on speech perception observed at the brainstem<br/>
