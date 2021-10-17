@@ -12,7 +12,6 @@
 * Members 小组成员：
 
 &emsp;&emsp;&emsp;&emsp;Yanyan Qi - Zhengzhou University<br/>
-&emsp;&emsp;&emsp;&emsp;Shensheng Wang - PostDoc; UM&SUSTech<br/>
 &emsp;&emsp;&emsp;&emsp;Kun Chen - PhD student; UM <br/>
 &emsp;&emsp;&emsp;&emsp;Haoming Zhang - PhD student<br/> 
 &emsp;&emsp;&emsp;&emsp;Zhaoning Li - PhD student<br/>
@@ -52,6 +51,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emotion perception<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cub.2021.09.043<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 17 / 10月17日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2:An adaptive, individualized fMRI delay discounting procedure to increase flexibility<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;and optimize scanner time<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Pengcheng Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 17 / 10月17日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 3:Spatiotemporal dynamics of orthographic and lexical processing in the ventral visual pathway<br/>
