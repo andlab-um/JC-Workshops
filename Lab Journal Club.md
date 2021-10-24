@@ -42,7 +42,10 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 41:<br/>
+&emsp;&emsp;&emsp;&emsp;Week 41:Independent and Interacting Value Systems for Reward and Information in the Human Brain<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://10.1371/journal.pcbi.1000254<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanghua Ye<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 24 / 10月24日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1:Dynamics of aesthetic experience are reﬂected in the default-mode network<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuroimage.2018.12.017<br/>
