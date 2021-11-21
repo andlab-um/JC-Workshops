@@ -43,9 +43,9 @@
 * Schedule in 2021 阅读分享安排：
 
 
-&emsp;&emsp;&emsp;&emsp;Week 45:A Theory of Causal Learning in Children: Causal Maps and Bayes Nets<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/0033-295X.111.1.3<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu<br/>
+&emsp;&emsp;&emsp;&emsp;Week 45: Developmental differences in memory reactivation relate to encoding and inference in the human brain<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s41562-021-01206-5<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Nov 21 / 11月21日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1:Latent motives guide structure learning during adaptive social choice<br/>
