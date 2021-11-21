@@ -42,6 +42,10 @@
 
 * Schedule in 2021 阅读分享安排：
 
+&emsp;&emsp;&emsp;&emsp;Week 46: Temporally delayed linear modelling (TDLM) measures replay in both animals and humans<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.7554/eLife.66917<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qi Huang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Nov 28 / 11月28日
 
 &emsp;&emsp;&emsp;&emsp;Week 45: Developmental differences in memory reactivation relate to encoding and inference in the human brain<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s41562-021-01206-5<br/>
