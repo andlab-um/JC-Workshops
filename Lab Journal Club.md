@@ -40,6 +40,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周五晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
+
+&emsp;&emsp;&emsp;* Book reading  (start from 10/01/2021)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
+
 * Schedule in 2021 阅读分享安排：
 
 &emsp;&emsp;&emsp;&emsp;Week 46: Temporally delayed linear modelling (TDLM) measures replay in both animals and humans<br/>
