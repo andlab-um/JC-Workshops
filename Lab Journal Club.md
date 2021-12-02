@@ -47,7 +47,7 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 47: Transformative neural representations support long-term episodic memory
+&emsp;&emsp;&emsp;&emsp;Week 47: Transformative neural representations support long-term episodic memory<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1126/sciadv.abg9715<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 05 / 12月05日
