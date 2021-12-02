@@ -47,7 +47,7 @@
 
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 47: Dynamic Suppression of Average Facial Structure Shapes Neural Tuning in Three Macaque Face Patches<br/>
+&emsp;&emsp;&emsp;&emsp;Week 47: Flash Pre 1: Dynamic Suppression of Average Facial Structure Shapes Neural Tuning in Three Macaque Face Patches<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cub.2020.09.070<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna LI<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 05 / 12月05日
