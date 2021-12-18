@@ -59,7 +59,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2:<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yan Tian<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 19 / 12月19日
 
 &emsp;&emsp;&emsp;&emsp;Week 48: Interactive gaming in network<br/>
