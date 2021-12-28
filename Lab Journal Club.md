@@ -47,6 +47,7 @@
 * Schedule in 2021 阅读分享安排：
 
 &emsp;&emsp;&emsp;&emsp;Week 50: Lab gathertown
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 28 / 12月28日
 
 &emsp;&emsp;&emsp;&emsp;Week 49: The computational and neural substrates of moral strategies in social decision-making<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-019-09161-6<br/>
