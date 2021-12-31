@@ -44,9 +44,16 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
+* Schedule in 2022 阅读分享安排：
+
+&emsp;&emsp;&emsp;&emsp;Week 1: <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-019-09161-6<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 2 / 1月2日
+
 * Schedule in 2021 阅读分享安排：
 
-&emsp;&emsp;&emsp;&emsp;Week 50: Lab gathertown
+&emsp;&emsp;&emsp;&emsp;Week 50: Lab gathertown<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 28 / 12月28日
 
 &emsp;&emsp;&emsp;&emsp;Week 49: The computational and neural substrates of moral strategies in social decision-making<br/>
