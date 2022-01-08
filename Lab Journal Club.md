@@ -44,7 +44,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
-* Schedule in 2022 阅读分享安排 (报告顺序https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)：
+* Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）：
 
 &emsp;&emsp;&emsp;&emsp;Week 2: Experimental Games and Social Decision Making<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-081420-110718<br/>
