@@ -46,6 +46,11 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）：
 
+&emsp;&emsp;&emsp;&emsp;Week 3: Stress Disrupts Human Hippocampal-Prefrontal Function during Prospective Spatial Navigation and Hinders Flexible Behavior<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cub.2020.03.006<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ruien Wang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 16 / 1月16日
+
 &emsp;&emsp;&emsp;&emsp;Week 2: Experimental Games and Social Decision Making<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-081420-110718<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qingyuan Wu<br/>
