@@ -57,6 +57,10 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. A habenula-insular circuit encodes the willingness to act<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-021-26569-1<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Prior experience: Human decisions about when to act originate within a basal forebrain–nigral circuit
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1073/pnas.1921211117
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;PPI guideline: Tools of the trade: psychophysiological interactions and functional connectivity
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1093/scan/nss055
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 23 / 1月23日
 
