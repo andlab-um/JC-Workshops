@@ -50,6 +50,11 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）：
 
+&emsp;&emsp;&emsp;&emsp;Week 6: Inventory and reflection on the neuroimaging study published in the top issue (2020-2022)<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://docs.qq.com/sheet/DTGxycUR1SUNKbEVB<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haiyan Wu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 06 / 2月6日
+
 &emsp;&emsp;&emsp;&emsp;Week 5: Anatomical dissociation of intracerebral signals for reward and punishment prediction errors in humans<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-021-23704-w<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu<br/>
