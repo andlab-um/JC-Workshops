@@ -50,6 +50,23 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）：
 
+
+
+&emsp;&emsp;&emsp;&emsp;Week 7: States of Curiosity Modulate Hippocampus-Dependent Learning via the Dopaminergic Circuit<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;http://dx.doi.org/10.1016/j.neuron.2014.08.060<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanghua Ye<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 13 / 2月13日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Other people’s gaze encoded as implied motion in the human brain<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1073/pnas.2003110117<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 13 / 2月13日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: Spurious normativity enhances learning of compliance and enforcement behavior in artificial agents<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1073/pnas.2106028118<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qingyuan Wu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 13 / 2月13日
+
 &emsp;&emsp;&emsp;&emsp;Week 6: Inventory and reflection on the neuroimaging study published in the top issue (2020-2022)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://docs.qq.com/sheet/DTGxycUR1SUNKbEVB<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haiyan Wu<br/>
