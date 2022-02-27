@@ -32,7 +32,7 @@
 &emsp;&emsp;&emsp;&emsp;Huidi Li - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Yan Tian - UG student<br/>
 &emsp;&emsp;&emsp;&emsp;Michael Yu- UG student<br/>
-&emsp;&emsp;&emsp;&emsp;Tiffney Chen- UG student<br/>
+&emsp;&emsp;&emsp;&emsp;Tiffany Chen- UG student<br/>
 
 * Meeting time 时间：
 
