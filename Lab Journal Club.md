@@ -50,6 +50,11 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）
 
+&emsp;&emsp;&emsp;&emsp;Week 10: In-degree centrality in a social network is linked to coordinated neural activity<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-022-28432-3<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 6 / 3月6日
+
 &emsp;&emsp;&emsp;&emsp;Week 9: a. The Amygdala Response to Emotional Stimuli: A Comparison of Faces and Scenes <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1006/nimg.2002.1179<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. A Susceptibility Gene for Affective Disorders and the Response of the Human Amygdala<br/>
