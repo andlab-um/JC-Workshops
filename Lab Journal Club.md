@@ -44,7 +44,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周五晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
-&emsp;&emsp;&emsp;* Book reading  (start from 10/01/2021)<br/>
+&emsp;&emsp;&emsp;* Book reading (start from 10/01/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
@@ -61,8 +61,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 20 / 3月20日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: <br/> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Evolution of honesty in higher-order social networks<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: Evolution of honesty in higher-order social networks<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1103/PhysRevE.104.054308<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qingyuan Wu <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 20 / 3月20日
