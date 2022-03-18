@@ -56,9 +56,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 20 / 3月20日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Fast response times signal social connection in conversation<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1073/pnas.2116915119<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：x <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Functional organization of social perception in the human brain<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1101/2021.12.17.473175<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 20 / 3月20日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: Rapid approach-avoidance responses to emotional displays reﬂect value-based decisions: Neural<br/> 
