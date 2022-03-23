@@ -50,6 +50,10 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序 https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）
 
+&emsp;&emsp;&emsp;&emsp;Week 13: Six Dimensions Describe Action Understanding: The ACT-FASTaxonomy<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/pspa0000286<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Mar 27 / 3月27日
 
 &emsp;&emsp;&emsp;&emsp;Week 12: EEG variability: Task-driven or subject-driven signal of interest?<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuroimage.2022.119034<br/>
