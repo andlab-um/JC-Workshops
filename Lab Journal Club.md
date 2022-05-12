@@ -50,8 +50,8 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）
 
-&emsp;&emsp;&emsp;&emsp;Week 20: <br/> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
+&emsp;&emsp;&emsp;&emsp;Week 20: Independent and interacting value systems for reward and information in the human brain<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.7554/eLife.66358<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 15 / 5月15日
 
