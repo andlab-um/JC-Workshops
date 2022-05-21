@@ -51,7 +51,7 @@
 * Schedule in 2022 阅读分享安排（ 报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）
 
 &emsp;&emsp;&emsp;&emsp;Week 21: Metacognition and mentalizing are associated with distinct neural representations of decision uncertainty<br/> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https:// doi.org/10.1371/journal.pbio.3001301<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1371/journal.pbio.3001301<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luoyao Pang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：May 22 / 5月22日
 
