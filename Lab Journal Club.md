@@ -60,9 +60,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yan Tian<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：June 5 / 6月5日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: <br/> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 2: Negativity bias, personality and political ideology<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s41562-022-01327-5<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Qingyuan Wu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：June 5 / 6月5日
 
 &emsp;&emsp;&emsp;&emsp;Week 22: Reinforcement learning signal predicts social conformity<br/> 
