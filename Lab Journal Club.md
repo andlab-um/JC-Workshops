@@ -50,6 +50,13 @@
 
 * Schedule in 2022 阅读分享安排（ 报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs ）
 
+&emsp;&emsp;&emsp;&emsp;Week 24: Activation network mapping for integration of heterogeneous fMRI findings<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-022-01371-1<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Previous study: Facial expression recognition: A meta-analytic review of theoretical models and neuroimaging evidence
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1016/j.neubiorev.2021.05.023
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Luna LI<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：June 12 / 6月12日
+
 &emsp;&emsp;&emsp;&emsp;Week 23: Common and stimulus-type-specific brain representations of negative affect<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s41593-022-01082-w<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu<br/>
