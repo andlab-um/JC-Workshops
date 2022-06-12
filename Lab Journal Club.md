@@ -54,11 +54,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1038/s41562-022-01371-1<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Previous study: Facial expression recognition: A meta-analytic review of theoretical models and neuroimaging evidence<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1016/j.neubiorev.2021.05.023<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Presenter 报告人：Luna LI<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Presenter 报告人：Luna Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Date 时间：June 12 / 6月12日
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Wise or mad crowds? The cognitive mechanisms underlying information cascades<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DOI: 10.1126/sciadv.abb0266<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1126/sciadv.abb0266<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：June 12 / 6月12日
 
