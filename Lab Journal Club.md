@@ -14,7 +14,7 @@
 &emsp;&emsp;&emsp;&emsp;Yanyan Qi - Zhengzhou University<br/>
 &emsp;&emsp;&emsp;&emsp;Kun Chen - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Haoming Zhang - PhD student<br/> 
-&emsp;&emsp;&emsp;&emsp;Zhaoning Li - PhD student<br/>
+&emsp;&emsp;&emsp;&emsp;Zhaoning Li - PhD student[![Twitter URL](https://img.shields.io/twitter/url?label=%40lizhn7&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/lizhn7)<br/>
 &emsp;&emsp;&emsp;&emsp;Siying Li - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Luna Li - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Ziqi Zhang - Master student<br/>
