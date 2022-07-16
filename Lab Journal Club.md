@@ -53,6 +53,11 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
+&emsp;&emsp;&emsp;&emsp;Week 29: Constructing Others' Beliefs from One's Own Using Medial Frontal Cortex<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1523/JNEUROSCI.0011-21.2021<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun CHEN<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 17 / 7月17日
+
 &emsp;&emsp;&emsp;&emsp;Week 28: Children’s exploratory play tracks the discriminability of hypotheses<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-021-23431-2<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Yanghua Ye<br/>
