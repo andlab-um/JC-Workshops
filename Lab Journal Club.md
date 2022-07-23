@@ -53,7 +53,7 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
-&emsp;&emsp;&emsp;&emsp;Week 30: Cognitive processing of a common stimulus synchronizes brains, hearts, and eyes
+&emsp;&emsp;&emsp;&emsp;Week 30: Cognitive processing of a common stimulus synchronizes brains, hearts, and eyes<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1093/pnasnexus/pgac020<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Li Siying<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：July 24 / 7月24日
