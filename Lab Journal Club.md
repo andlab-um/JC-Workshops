@@ -53,14 +53,18 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
-&emsp;&emsp;&emsp;&emsp;Week 32: <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
+&emsp;&emsp;&emsp;&emsp;Week 32: Reassessing hierarchical correspondences between brain and deep networks through direct interface<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.science.org/doi/10.1126/sciadv.abm2219<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;High-performing neural network models of visual cortex benefit from high latent dimensionality<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1101/2022.07.13.499969<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://openreview.net/pdf?id=mxi1xKzNFrb<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zhaoning Li<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：August 7 / 8月7日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1:Widespread implementations of interactive social gaze neurons in the primate prefrontal-amygdala<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;networks<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2022.04.013<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Keyu Hu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：August 7 / 8月7日
 
 &emsp;&emsp;&emsp;&emsp;Week 31: Modeling the mind of a predator: Interactive cognitive maps support flexible avoidance of dynamic threats<br/>
