@@ -58,7 +58,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zhaoning Li <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 22 / 10月30日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: A computational account of optimizing social predictions reveals that adolescents are conservative learners in social contexts<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: A computational account of optimizing social predictions reveals that adolescents are conservative learners<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;in social contexts<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1523/JNEUROSCI.1044-17.2017<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Junyuan Zheng<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Oct 22 / 10月30日
