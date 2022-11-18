@@ -53,7 +53,8 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
-&emsp;&emsp;&emsp;&emsp;Week 43:Neural implementation of computational mechanisms underlying the continuous trade-off between cooperation and competition<br/>
+&emsp;&emsp;&emsp;&emsp;Week 43:Neural implementation of computational mechanisms underlying the continuous trade-off between cooperation and<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;competition<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-022-34509-w<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Nov 20 / 11月wo日
