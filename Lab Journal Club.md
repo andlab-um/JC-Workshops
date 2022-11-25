@@ -40,7 +40,7 @@
 * Meeting time 时间：
 
 &emsp;&emsp;&emsp;* Journal Club (start from 1/3/2021)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;每周日晚20：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
 
 &emsp;&emsp;&emsp;* Lab Workshop (start from 6/11/2021)<br/>
@@ -52,6 +52,18 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
+
+&emsp;&emsp;&emsp;&emsp;Week 44:Biased evaluations emerge from inferring hidden causes <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01065-0<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Affect-congruent attention drives changes in reward expectations <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://psyarxiv.com/vu2cw/download<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Keyu Hu <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Nov 27 / 11月27日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Aesthetic experience enhances first-person spatial representation<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1073/pnas.2201540119<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：He Miao<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Nov 27 / 11月27日
 
 &emsp;&emsp;&emsp;&emsp;Week 43:Neural implementation of computational mechanisms underlying the continuous trade-off between cooperation and<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;competition<br/>
