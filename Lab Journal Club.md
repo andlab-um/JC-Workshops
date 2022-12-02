@@ -53,6 +53,16 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
+&emsp;&emsp;&emsp;&emsp;Week 45:The hidden cost of receiving favors: A theory of indebtedness<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1101/2020.02.03.926295<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xianqing Liu <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 4 / 12月4日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre 1: Human cooperation in changing groups in a large-scale public goods game<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1038/s41467-022-34160-5<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zexin Zheng<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 4 / 12月4日
+
 &emsp;&emsp;&emsp;&emsp;Week 44:Biased evaluations emerge from inferring hidden causes <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01065-0<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Affect-congruent attention drives changes in reward expectations <br/>
