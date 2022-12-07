@@ -54,8 +54,8 @@
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
 &emsp;&emsp;&emsp;&emsp;Week 46:Prefrontal cortex state representations shape human credit assignment<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1101/2020.02.03.926295<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun CHEN <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.31234/osf.io/sezup<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Kun Chen <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 11 / 12月11日
 
 &emsp;&emsp;&emsp;&emsp;Week 45:The hidden cost of receiving favors: A theory of indebtedness<br/>
