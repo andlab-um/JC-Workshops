@@ -53,6 +53,11 @@
 
 * Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
+&emsp;&emsp;&emsp;&emsp;Week 48: Human-behaviour-based social locomotion model improves the humanization of social robots<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s42256-022-00542-z<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zhaoning Li <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Dec 27 / 12月27日
+
 &emsp;&emsp;&emsp;&emsp;Week 47:Model-based aversive learning in humans is supported by preferential task state reactivation<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[DOI: 10.1126/sciadv.abf9616](https://www.science.org/doi/10.1126/sciadv.abf9616)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Haoming Zhang <br/>
