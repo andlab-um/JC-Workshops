@@ -63,7 +63,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ran Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
 
-* Schedule in 2021 阅读分享安排：
+* Schedule in 2022 阅读分享安排：
 
 &emsp;&emsp;&emsp;&emsp;Week 48: Human-behaviour-based social locomotion model improves the humanization of social robots<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s42256-022-00542-z<br/>
