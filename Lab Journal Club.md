@@ -40,7 +40,7 @@
 * Meeting time 时间：
 
 &emsp;&emsp;&emsp;* Journal Club (start from 1/3/2021)<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;每周日晚20：00（北京时间），腾讯会议<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;每周日晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Sun. (Beijing time), Tencent Conference  
 
 &emsp;&emsp;&emsp;* Lab Workshop (start from 6/11/2021)<br/>
@@ -51,7 +51,17 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
-* Schedule in 2022 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
+* Schedule in 2023 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
+
+&emsp;&emsp;&emsp;&emsp;Week 1: Orthogonal representations for robust context-dependent task performance in brains and neural networks<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2022.01.005<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Xinyi Xu <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre: Learning About the Self: Motives for Coherence and Positivity Constrain Learning From Self-Relevant<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Social Feedback<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1177/09567976211045934<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Ran Zhang<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Jan 3 / 1月3日
 
 &emsp;&emsp;&emsp;&emsp;Week 48: Human-behaviour-based social locomotion model improves the humanization of social robots<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://www.nature.com/articles/s42256-022-00542-z<br/>
