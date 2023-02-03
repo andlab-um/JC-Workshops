@@ -51,10 +51,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;(materials&recordings: https://docs.qq.com/sheet/DRFpLZEVlaGpzS3ZY?tab=BB08J2)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 1: psychopy&online experiment<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Kun CHEN, Date: Jan 13 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Kun CHEN, Date: Jan 13 <br/>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 2: fMRI data preprocessing using fMRIprep<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Xinyi Xu, Date: Feb 3 <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Xinyi Xu, Date: Feb 3 <br/>
 
 &emsp;&emsp;&emsp;* Book reading (start from 10/01/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
