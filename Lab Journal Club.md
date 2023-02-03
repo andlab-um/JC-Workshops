@@ -47,8 +47,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;周五晚19：00（北京时间），腾讯会议<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Schedule in 2023 workshop and tutorials <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;（materials&recordings: https://docs.qq.com/sheet/DRFpLZEVlaGpzS3ZY?tab=BB08J2)
+&emsp;&emsp;&emsp;&emsp;&emsp;2023 workshop and tutorials <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;(materials&recordings: https://docs.qq.com/sheet/DRFpLZEVlaGpzS3ZY?tab=BB08J2)
 
 &emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 1: psychopy&online experiment<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Kun CHEN，Date: Jan 13 <br/>
