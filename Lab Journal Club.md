@@ -50,11 +50,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;Schedule in 2023 workshop and tutorials <br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;（materials&recordings: https://docs.qq.com/sheet/DRFpLZEVlaGpzS3ZY?tab=BB08J2)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 1: psychopy&online exp<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Kun CHEN， Date 时间：Jan 13 / 1月13日<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 1: psychopy&online experiment<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Kun CHEN，Date: Jan 13 <br/>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 2: fmriprep<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Xinyi Xu，Date 时间：Feb 3 / 2月3日<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;Tutorial 2: fMRI data preprocessing using fMRIprep<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tutor：Xinyi Xu, Date: Feb 3 <br/>
 
 &emsp;&emsp;&emsp;* Book reading (start from 10/01/2021)<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;周三晚20：00（北京时间），腾讯会议<br/>
