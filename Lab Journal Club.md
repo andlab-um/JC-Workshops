@@ -17,7 +17,7 @@
 &emsp;&emsp;&emsp;&emsp;Yanyan Qi - Zhengzhou University<br/>
 &emsp;&emsp;&emsp;&emsp;Kun Chen - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Haoming Zhang - PhD student<br/> 
-&emsp;&emsp;&emsp;&emsp;[Zhaoning Li - PhD student](https://github.com/Das-Boot) <br/>
+&emsp;&emsp;&emsp;&emsp;[Zhaoning Li - PhD student](https://lizhaoning.academia.edu) <br/>
 &emsp;&emsp;&emsp;&emsp;Siying Li - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Luna Li - PhD student<br/>
 &emsp;&emsp;&emsp;&emsp;Xinyi Xu - PhD student<br/>
@@ -62,6 +62,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;19:00 Fri. (Beijing time), Tencent Conference  
 
 * Schedule in 2023 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
+
+&emsp;&emsp;&emsp;&emsp;Week 6: Shared neural representations and temporal segmentation of political content predict ideological similarity<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1126/sciadv.abq5920<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Zhaoning Li<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：Feb 19 / 2月19日
 
 &emsp;&emsp;&emsp;&emsp;Week 5: Threat and reward imminence processing in the human brain<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1101/2023.01.20.524987<br/>
