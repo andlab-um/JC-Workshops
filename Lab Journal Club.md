@@ -10,7 +10,6 @@
 
 * Host 组织者：
 
-&emsp;&emsp;&emsp;&emsp;Xianqing Liu
 &emsp;&emsp;&emsp;&emsp;Keyu Hu
 * Members 小组成员：
 
