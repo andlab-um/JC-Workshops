@@ -1,4 +1,4 @@
-# ANDLab Workshop(-since 2023)
+# ANDLab Workshop (since 2023)
 
 ## Schedule | 日程安排
 
