@@ -2,7 +2,7 @@
 
 ## Schedule | 日程安排
 
-> See workshop recordings on lab Baidu Netdisk.
+> See workshop recordings on lab BaiduNetdisk or NAS.
 
 | Time<br>时间 | Presenter<br>主讲人 | Topic<br>主题 | Resources<br>相关资料 |
 | ------------- | ------------- | ------------- | ------------- |
