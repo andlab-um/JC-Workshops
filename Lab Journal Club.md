@@ -73,8 +73,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Presenter 报告人： Xinyi Xu<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Date 时间：April 9 / 4月9日
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre: Effects of Acute Stress on Rigid Learning, Flexible Learning, and Value-Based <br/> 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Decision-Making in Spatial Navigation<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre: Effects of Acute Stress on Rigid Learning, Flexible Learning, and Value-Based Decision-Making <br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;in Spatial Navigation<br/> 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1177/09567976231155870<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Shuhan Zhang<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：April 9 / 4月9日
