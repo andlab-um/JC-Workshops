@@ -68,6 +68,16 @@
 
 * Schedule in 2023 阅读分享安排（报告顺序: https://docs.qq.com/sheet/DRUJlUllSQ2Vyb0xs)
 
+&emsp;&emsp;&emsp;&emsp;Week 13: Explore-Exploit Tradeoffs Generate Cascading Societal Stereotypes<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://psyarxiv.com/mbuhv/<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Presenter 报告人：Keyu Hu<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Date 时间：April 16 / 4月16日
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Flash Pre: Subjective signal strength distinguishes reality from imagination<br/> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41467-023-37322-1<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Presenter 报告人：Junyuan Zheng<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Date 时间：April 16 / 4月16日
+
 &emsp;&emsp;&emsp;&emsp;Week 13: Hippocampal spatio-predictive cognitive maps adaptively guide reward generalization<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; https://doi.org/10.1038/s41593-023-01283-x<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Presenter 报告人： Xinyi Xu<br/>
