@@ -1,5 +1,7 @@
 # ANDLab Workshop (since 2023)
 
+> Workshop topics: https://docs.qq.com/sheet/DRFpLZEVlaGpzS3ZY
+
 ## Schedule | 日程安排
 
 > See workshop recordings on lab BaiduNetdisk or NAS.
