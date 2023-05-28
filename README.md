@@ -19,7 +19,6 @@
 - Haoming Zhang - PhD student
 - [Zhaoning Li](https://lizhaoning.academia.edu) - PhD student
 - Siying Li - PhD student
-- Luna Li - PhD student
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
 - Haofei Wu - Master student
