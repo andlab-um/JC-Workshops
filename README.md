@@ -18,16 +18,16 @@
 - Honghui Xu - Postdoc
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
-- Jingmin Qin- PhD student
+- Jingmin Qin - PhD student
 - Haofei Wu - Master student
 - Shuhan Zhang - Master student
 - Junyuan Zheng - Master student
 - Ran Zhang - Master student
 - Liwei Tan - Master student
 - Xinze Wang - Master student
-- He Miu- Master student
+- He Miu - Master student
 - Yan Tian - UG student
-- Michael Yu- UG student
+- Michael Yu - UG student
 
 ### Meeting time 时间：
 
