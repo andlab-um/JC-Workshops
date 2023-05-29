@@ -15,7 +15,6 @@
 ### 2023-2024 JC Members 小组成员：
 
 
-- Haoming Zhang - PhD student
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
 - Haofei Wu - Master student
