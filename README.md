@@ -15,19 +15,19 @@
 ### 2023-2024 JC Members 小组成员：
 
 
+- Honghui Xu - Postdoc
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
+- Jingmin - PhD student
 - Haofei Wu - Master student
 - Shuhan Zhang - Master student
 - Junyuan Zheng - Master student
-- Yuanchen Wang - Master student
-- Xianqing Liu - Master student
 - Ran Zhang - Master student
 - Liwei Tan - Master student
 - Xinze Wang - Master student
 - Yan Tian - UG student
 - Michael Yu- UG student
-- He Miu- UG student
+- He Miu- Master student
 
 ### Meeting time 时间：
 
