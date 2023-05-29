@@ -2,7 +2,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/ANDlab3)
 
-## 见贤思齐焉小组
+
 
 ### Contact 联系人
 
@@ -12,34 +12,24 @@
 
 - Keyu Hu
 
-### Members 小组成员：
+### 2023-2024 JC Members 小组成员：
 
-- Yanyan Qi - Zhengzhou University
+
 - [Kun Chen](https://github.com/const7) - PhD student
 - Haoming Zhang - PhD student
-- [Zhaoning Li](https://lizhaoning.academia.edu) - PhD student
-- Siying Li - PhD student
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
 - Haofei Wu - Master student
 - Shuhan Zhang - Master student
 - Junyuan Zheng - Master student
-- Ziqi Zhang - Master student
-- Siqi Cao - Master student
-- Pengcheng Zhang - Master student
-- Luoyao Pang - Master student
-- Yanghua Ye - Master student
-- Jiamin Huang - Master student
-- Qingyuan Wu - Master student
-- Qi Huang - Master student
 - Yuanchen Wang - Master student
 - Xianqing Liu - Master student
-- Ruien Wang - UG student
-- Huidi Li - UG student
+- Ran Zhang - Master student
+- Liwei Tan - Master student
+- Xinze Wang - Master student
 - Yan Tian - UG student
 - Michael Yu- UG student
 - He Miu- UG student
-- Tiffany Chen- UG student
 
 ### Meeting time 时间：
 
