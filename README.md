@@ -18,7 +18,7 @@
 - Honghui Xu - Postdoc
 - Xinyi Xu - PhD student
 - Keyu Hu - PhD student
-- Jingmin - PhD student
+- Jingmin Qin- PhD student
 - Haofei Wu - Master student
 - Shuhan Zhang - Master student
 - Junyuan Zheng - Master student
