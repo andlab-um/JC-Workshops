@@ -25,9 +25,9 @@
 - Ran Zhang - Master student
 - Liwei Tan - Master student
 - Xinze Wang - Master student
+- He Miu- Master student
 - Yan Tian - UG student
 - Michael Yu- UG student
-- He Miu- Master student
 
 ### Meeting time 时间：
 
