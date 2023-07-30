@@ -26,8 +26,10 @@
 - Liwei Tan - Master student
 - Xinze Wang - Master student
 - He Miu - Master student
+- Cuilin He - Master student
 - Yan Tian - UG student
 - Michael Yu - UG student
+- Jiayu Cheng - RA student
 
 ### Meeting time 时间：
 
