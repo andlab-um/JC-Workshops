@@ -49,6 +49,7 @@
 
 ### Schedule 议程：
 
+- [JC Schedule in 2024](JC_2024.md)
 - [JC Schedule in 2023](JC_2023.md)
 - [Workshop Schedule](Workshop.md)
 - [JC Schedule in 2022](JC_2022.md)
