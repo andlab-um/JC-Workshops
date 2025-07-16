@@ -8,28 +8,12 @@
 
 - Prof. Haiyan Wu (haiyanwu3@gmail.com)
 
-### Host 组织者
-
-- Keyu Hu
-
-### 2023-2024 JC Members 小组成员：
+### Host 组织者 2025
 
 
-- Honghui Xu - Postdoc
-- Xinyi Xu - PhD student
-- Keyu Hu - PhD student
-- Jingmin Qin - PhD student
-- Haofei Wu - Master student
-- Shuhan Zhang - Master student
-- Junyuan Zheng - Master student
-- Ran Zhang - Master student
-- Liwei Tan - Master student
-- Xinze Wang - Master student
-- He Miu - Master student
-- Cuilin He - Master student
-- Yan Tian - UG student
-- Michael Yu - UG student
-- Jiayu Cheng - RA student
+### 2024-2025 JC Members 小组成员：
+
+
 
 ### Meeting time 时间：
 
